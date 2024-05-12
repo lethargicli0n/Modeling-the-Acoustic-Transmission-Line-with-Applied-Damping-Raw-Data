@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Modeling-the-Acoustic-Transmission-Line-with-Applied-Damping-Raw-Data
+message: >-
+  Raw Data Repository for My Master's Thesis Titled
+  "Modeling-the-Acoustic-Transmission-Line-with-Applied-Damping"
+type: dataset
+authors:
+  - name: Connor Getz
+    website: 'https://connorgetz99.wixsite.com/connor-getz-personal'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/lethargicli0n/Modeling-the-Acoustic-Transmission-Line-with-Applied-Damping-Raw-Data
+    description: Data Repository Location
+version: MATLAB R2022a
